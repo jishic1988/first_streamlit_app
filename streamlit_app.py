@@ -10,4 +10,4 @@ streamlit.text('\N{chicken}Hard Boiled free range egg')
 streamlit.text('\N{avocado}\N{bread}Avocado Toast')
 
 
-streamlit.header('\N{banana}\N{mango}Build your own fruit smoothie \N{mango}')
+streamlit.header('\N{banana}\N{mango}Build your own fruit smoothie \N{cherries}')
